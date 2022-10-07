@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "d+25ocBJm6hV+P+GbHwlfMrti6oq9xxULyxghzFz91gBJUmjWDGO54sCq7bFi/dh7dIfLhan8z1RP+X1xHm0CQ==",
+  "success": true,
+  "projectFilePath": "C:\\GitRepos\\PET\\CS\\Parcer_test\\Parcer_test\\Parcer_test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dimko\\.nuget\\packages\\anglesharp\\0.17.1\\anglesharp.0.17.1.nupkg.sha512",
+    "C:\\Users\\Dimko\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\Dimko\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Dimko\\.nuget\\packages\\system.text.encoding.codepages\\6.0.0\\system.text.encoding.codepages.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
