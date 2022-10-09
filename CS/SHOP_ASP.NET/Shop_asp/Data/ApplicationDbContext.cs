@@ -11,5 +11,6 @@ namespace Shop_asp.Data
         }
 
         public DbSet<Teams> Teams { get; set; }
+        public DbSet<Gamers> Gamers { get; set; }
     }
 }

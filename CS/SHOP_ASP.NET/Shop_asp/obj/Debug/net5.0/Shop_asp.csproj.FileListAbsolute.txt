@@ -429,3 +429,4 @@ C:\GitRepos\PET\CS\SHOP_ASP.NET\Shop_asp\bin\Debug\net5.0\zh-Hant\Microsoft.Code
 C:\GitRepos\PET\CS\SHOP_ASP.NET\Shop_asp\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\GitRepos\PET\CS\SHOP_ASP.NET\Shop_asp\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
 C:\GitRepos\PET\CS\SHOP_ASP.NET\Shop_asp\obj\Debug\net5.0\Razor\Views\Teams\Index.cshtml.g.cs
+C:\GitRepos\PET\CS\SHOP_ASP.NET\Shop_asp\obj\Debug\net5.0\Razor\Views\Gamers\Index.cshtml.g.cs
